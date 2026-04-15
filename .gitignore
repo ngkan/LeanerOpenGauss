@@ -53,3 +53,6 @@ environments/benchmarks/evals/
 
 # Release script temp files
 .release_notes.md
+
+.qwen/
+.opengauss-installer-venv/
